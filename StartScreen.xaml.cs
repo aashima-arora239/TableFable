@@ -4,8 +4,6 @@
 //  ver 1.0                                                                           //  
 //  Language:    C#                                                                   //
 //  Application: Table Fable - Tables in mathematics made easy                        //
-//  Author:      Infinite Loop Apps - iMagic Ventures Company                         //
-//  (c)Copyright Infinite Loop Apps - iMagic Ventures Company                         //
 ////////////////////////////////////////////////////////////////////////////////////////
 
 using Windows.UI.Xaml.Controls;

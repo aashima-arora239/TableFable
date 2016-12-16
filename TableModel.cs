@@ -1,10 +1,4 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="TableModel.cs" Company="iMagic Ventures">
-//     Copyright (c) iMagic Ventures.  All rights reserved.
-// </copyright>
-//-----------------------------------------------------------------------
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Collections.ObjectModel;

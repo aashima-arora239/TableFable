@@ -1,10 +1,4 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="Levels.xaml.cs" Company="iMagic Ventures">
-//     Copyright (c) iMagic Ventures.  All rights reserved.
-// </copyright>
-//-----------------------------------------------------------------------
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Input;
